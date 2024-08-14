@@ -3,4 +3,4 @@
 
 
 
-- [Link Youtube: (Mente Binária) Programação moderna em C]([https://www.youtube.com/playlistlist=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
+Link Youtube: https://www.youtube.com/playlistlist=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
